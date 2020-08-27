@@ -1,0 +1,25 @@
+CACHE MANIFEST
+# v1.0 : 10-08-2014
+ 
+CACHE:
+# pages
+/
+
+# styles & scripts
+/css/styles.css
+/js/scripts.js
+/sw.js
+/scripts/indexdDB.js
+/scripts/offline.js
+/scripts/clean.js
+
+ 
+# images
+/dist/Logo_PUCMM.png
+ 
+NETWORK:
+/dist/login.html
+/dist/register.html
+ 
+FALLBACK:
+/dist/index.html
